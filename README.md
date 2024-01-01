@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: ([News-Hompage](https://news-homepage-main-rho-woad.vercel.app/))
 
 ## My process
 
